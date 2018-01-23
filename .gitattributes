@@ -1,0 +1,3 @@
+*.js linguist-language=phthon  
+*.css linguist-language=phthon   
+*.html linguist-language=phthon 
